@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CourseraFM</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="button">Entrar</string>
+</resources>
